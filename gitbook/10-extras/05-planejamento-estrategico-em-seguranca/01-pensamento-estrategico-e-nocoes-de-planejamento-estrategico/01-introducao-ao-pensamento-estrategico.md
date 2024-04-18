@@ -1,0 +1,2 @@
+# Introducao ao pensamento estrategico
+
