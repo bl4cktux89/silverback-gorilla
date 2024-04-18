@@ -1,2 +1,0 @@
-# TIC no policiamento
-

@@ -1,2 +1,0 @@
-# A gestao do conhecimento
-

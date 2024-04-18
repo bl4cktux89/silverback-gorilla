@@ -1,2 +1,0 @@
-# Introducao a TIC
-

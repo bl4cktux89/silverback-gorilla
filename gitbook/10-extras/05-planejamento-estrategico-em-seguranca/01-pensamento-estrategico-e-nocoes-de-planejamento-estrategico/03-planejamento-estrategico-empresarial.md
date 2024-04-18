@@ -1,2 +1,0 @@
-# Planejamento estrategico empresarial
-

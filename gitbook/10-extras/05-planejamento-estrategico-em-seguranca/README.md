@@ -1,2 +1,0 @@
-# Planejamento Estratégico em Segurança
-

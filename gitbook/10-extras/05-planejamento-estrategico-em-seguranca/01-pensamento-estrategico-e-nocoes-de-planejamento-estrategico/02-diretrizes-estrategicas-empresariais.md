@@ -1,2 +1,0 @@
-# Diretrizes estrategicas empresariais
-

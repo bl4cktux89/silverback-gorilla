@@ -1,8 +1,12 @@
-# Roadmap DevOps / SRE / Platform Engineer
+---
+description: >-
+  Essa é a minha base de estudos e anotações que acumulei ao longo de toda a
+  minha carreira profissional
+---
+
+# Infraestrutura de Redes
 
 ![Banner](.gitbook/assets/devops.png)
-
-## Essa é a minha base de estudos para transicionar a carreira para DevOps/SRE/Platform Engineer
 
 ## Sobre
 
@@ -11,24 +15,12 @@ Este é um repositório onde vou inserir a minha evolução e anotações que po
 Base dos Estudos:
 
 * [LinuxTips](https://www.linuxtips.io)
-* [Go Developer Roadmap](https://roadmap.sh/golang)
-* [DevOps Roadmap](https://roadmap.sh/devops)
-* [Mentoria Iac](https://gomex.me/mentoriaiac/)
-* [Guia DevOps Brasil](https://github.com/waltenne/guiadevopsbrasil)
 * [freeCodeCamp](https://www.freecodecamp.org/)
 
 ## Índice
 
-1. Programação Básica
-2. Linux e Sistemas Operacionais
-3. Redes e Protocolos
-4. Serviços de Rede
-5. IaC
-6. CI/CD
-7. Observabilidade
-8. Cloud Computing
-9. Padrões de Arquitetura na Nuvem
-10. Extras
+1. Linux e Sistemas Operacionais
+2. Redes e Protocolos
 
 ## Tecnologias Utilizadas
 

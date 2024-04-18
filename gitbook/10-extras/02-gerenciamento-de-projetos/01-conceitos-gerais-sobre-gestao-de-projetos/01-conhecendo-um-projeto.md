@@ -1,2 +1,0 @@
-# Conhecendo um Projeto
-

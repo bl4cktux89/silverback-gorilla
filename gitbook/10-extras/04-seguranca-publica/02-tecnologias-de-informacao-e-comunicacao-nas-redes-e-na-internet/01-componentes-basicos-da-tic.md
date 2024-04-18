@@ -1,2 +1,0 @@
-# Componentes basicos da TIC
-
